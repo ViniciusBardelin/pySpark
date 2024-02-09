@@ -10,6 +10,6 @@ PySpark é a interface Python para o Spark, permitindo aos desenvolvedores escre
 
 ## Projeto
 
-Manipulação, análise de dados e consultas SQL feitas em três arquivos CSV da receita federal. Os três arquivos CSV eram sobre empresas, estabelecimentos e sócios.
+Neste projeto eu manipulei, analisei dados e realizei consultas SQL utilizando o PySpark. Os dados deste projeto são da receita federal. Em particular, usei três arquivos CSV: empresas, estabelecimentos e sócios.
 
 Você pode checar os códigos no Jupyter Notebook clicando [aqui](https://nbviewer.org/github/ViniciusBardelin/pySpark/blob/main/SparkNotebook.html). Além disso, os dados utilizados se encontram [aqui](https://drive.google.com/drive/folders/1FCSv1-ZhGJIjVwtM07yDA5H6_4bXVpET?usp=drive_link).
